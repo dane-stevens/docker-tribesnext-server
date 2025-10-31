@@ -1,4 +1,5 @@
-FROM multiarch/debian-debootstrap:i386-jessie
+#FROM multiarch/debian-debootstrap:i386-jessie
+FROM debian/debian
 MAINTAINER sairuk
 
 # ENVIRONMENT
